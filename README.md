@@ -25,4 +25,4 @@ python jupyter
 
 ## Examples
 
-- Python Basics ([notebook](https://github.com/michaelmendoza/python-basics/blob/master/notebooks/Python%20Basics.ipynb))
+- Python Basics ([notebook](https://github.com/michaelmendoza/python-basics/blob/master/notebooks/python_basics.ipynb))
